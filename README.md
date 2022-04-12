@@ -20,8 +20,9 @@ and my passions lie in **art, technology,** and **psychology**.
 - 🔍Finding new hobbies/more reasons to slack off :D
 
 ## What I've been up to:
-- Learning about web development and machine learning
 - Expanding my skills and knowledge in:
+  - web development
+  - machine learning
   - python
   - javascript
   - data structures
