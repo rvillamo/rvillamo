@@ -1,7 +1,8 @@
 <!-- !["hello there!" in wordart font](https://user-images.githubusercontent.com/55860035/162610425-fe291f07-f3f7-4563-b60e-b46cca896269.png) -->
 # Nice to meet you, I'm Rachel! ![dancing duck gif](https://c.tenor.com/zjBypPlk9ekAAAAj/dancing-duck.gif)      
-I'm currently a third year Computer Engineering major at UC Irvine 
+I'm currently a fourth year Computer Engineering major at UC Irvine 
 and my passions lie in **art, technology,** and **psychology**. 
+Other topics of my interest are UI/UX, computer vision, and animal informatics. 
 
 ## Hobbies:
 - 🖼️Drawing
@@ -17,7 +18,6 @@ and my passions lie in **art, technology,** and **psychology**.
 - 🗽Sculpting
 - 💤 *n a p p i n g*
 - 🐢Taking care of my pet turtle
-- 🔍Finding new hobbies/more reasons to slack off :D
 
 ## What I've been up to:
 - Expanding my skills and knowledge in:
