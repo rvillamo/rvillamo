@@ -9,6 +9,6 @@ language learning, and animal informatics.
 - 🦉fun fact, my highest duolingo streak is 139 days
 
 <p align="center">
-  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvillamo&layout=compact&theme=ayu-mirage&hide=makefile">
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=rvillamo&theme=ayu-mirage&show_icons=true&count_private=true&hide=stars">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvillamo&layout=compact&theme=ayu-mirage&hide=makefile">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rvillamo&theme=ayu-mirage&show_icons=true&count_private=true&hide=stars">
 </p>
