@@ -6,7 +6,7 @@ I'd like to combine my skills with my interests in design, music,
 language learning, and animal informatics. 
 
 - 🌱currently learning about the fullstack
-- 🦉fun fact, my highest duolingo streak is 197 days
+- 🦉fun fact, my highest duolingo streak is 327 days
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvillamo&layout=compact&theme=ayu-mirage&hide=makefile">
